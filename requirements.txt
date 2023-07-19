@@ -1,0 +1,9 @@
+streamlit
+streamlit-option-menu
+pyodbc
+pandas
+numpy
+datetime
+opencv-python
+Pillow
+mysql-connector-python
